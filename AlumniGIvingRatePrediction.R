@@ -6,7 +6,7 @@ library(ISLR)
 library(car)
 
 #Loading data
-url<-'/Users/shirinakbar/Your team Dropbox/Shirin Akbar/Mac/Documents/Fall 22/ISDS 540/Group Project/AlumniGiving.csv'
+url<-'/Users/shirinakbar/Your team Dropbox/Shirin Akbar/Mac/Documents/Fall 22/AlumniGiving.csv'
 alumni <- read.csv(url)
 
 #Looking raw data
